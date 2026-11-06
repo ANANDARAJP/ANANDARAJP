@@ -22,7 +22,7 @@
 
 ## ✨ About Me
 
-Hey! I'm **Anand Raj**, a **Full Stack Java & Python Developer** who enjoys building reliable backend systems and clean web experiences.
+Hey! I'm **Anandaraj**, a **Full Stack Java & Python Developer** who enjoys building reliable backend systems and clean web experiences.
 
 - ☕ Developing with **Java, Spring Boot, Python & Django**
 - ⚛️ Building interfaces with **React**
