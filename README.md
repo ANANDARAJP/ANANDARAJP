@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANAND%20RAJ&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20%7C%20PYTHON%20BACKEND%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn&color=0:00C9FF,35:7B2FF7,70:F107A3,100:FF6A00" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Python+%7C+Django+%7C+REST+APIs;React+%7C+TypeScript+%7C+Modern+UI;Microservices+%7C+Docker+%7C+Kafka;Building+clean%2C+scalable+software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Full+Stack+Java+%26+Python+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Python+%7C+Django+%7C+Backend+Development;React+%7C+Microservices+%7C+Cloud+Technologies" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 
 ## ✨ About Me
 
-Hey! I'm **Anand Raj**, a software developer who enjoys building reliable backend systems and clean web experiences.
+Hey! I'm **Anand Raj**, a **Full Stack Java & Python Developer** who enjoys building reliable backend systems and clean web experiences.
 
-- 🐍 Developing with **Python & Django**
+- ☕ Developing with **Java, Spring Boot, Python & Django**
 - ⚛️ Building interfaces with **React**
 - 🧩 Learning and implementing **Microservices**
 - 🗄️ Working with relational databases and caching
