@@ -124,8 +124,8 @@ A public QR code generation project.
 <a href="https://github.com/ANANDARAJP">
   <img src="https://img.shields.io/badge/GitHub-ANANDARAJP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/ANANDARAJP?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Projects-Explore-FF6A00?style=for-the-badge&logo=github&logoColor=white" alt="Public projects"/>
 </a>
 
 <br/><br/>
